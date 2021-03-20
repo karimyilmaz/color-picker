@@ -1,0 +1,23 @@
+export const data = [
+    {bg: '#3A33FF'},
+    {bg: '#100ABD'},
+    {bg: '#3A33F3'},
+    {bg: '#3A332F'},
+    {bg: '#3A33FF'},
+    {bg: '#BD750A'},
+    {bg: '#BD751A'},
+    {bg: '#BD752A'},
+    {bg: '#BD754A'},
+    {bg: '#BD750B'},
+    {bg: '#BD754A'},
+    {bg: '#BD7500'},
+    {bg: '#CD750A'},
+    {bg: '#BD7541'},
+    {bg: '#BD750A'},
+    {bg: '#BB750A'},
+    {bg: '#BD777A'},
+    {bg: '#BD7500'},
+    {bg: '#BDD80A'},
+    {bg: '#BD750A'},
+    {bg: '#BD0500'}
+]
